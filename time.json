@@ -1,0 +1,112 @@
+{
+  "response": {
+    "total_count": 15,
+    "games": [
+      {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "playtime_2weeks": 1559,
+        "playtime_forever": 7320,
+        "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634"
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 902,
+        "playtime_forever": 4863,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355"
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V",
+        "playtime_2weeks": 556,
+        "playtime_forever": 2079,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251"
+      },
+      {
+        "appid": 1326470,
+        "name": "Sons Of The Forest",
+        "playtime_2weeks": 481,
+        "playtime_forever": 2675,
+        "img_icon_url": "bd28fe592b339cff5a3eef743f31e3166c984c68"
+      },
+      {
+        "appid": 736190,
+        "name": "Chinese Parents",
+        "playtime_2weeks": 192,
+        "playtime_forever": 192,
+        "img_icon_url": "e6482c08b4a1363ff75aa197d0f68ae7ed9e8af6"
+      },
+      {
+        "appid": 620,
+        "name": "Portal 2",
+        "playtime_2weeks": 104,
+        "playtime_forever": 104,
+        "img_icon_url": "2e478fc6874d06ae5baf0d147f6f21203291aa02"
+      },
+      {
+        "appid": 1329410,
+        "name": "雀魂麻将(MahjongSoul)",
+        "playtime_2weeks": 63,
+        "playtime_forever": 593,
+        "img_icon_url": "262db8949a5c064435dcb3aec4182c919dfd1976"
+      },
+      {
+        "appid": 391540,
+        "name": "Undertale",
+        "playtime_2weeks": 59,
+        "playtime_forever": 59,
+        "img_icon_url": "2ce672b89b63ec1e70d2f12862e72eb4a33e9268"
+      },
+      {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "playtime_2weeks": 48,
+        "playtime_forever": 48,
+        "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b"
+      },
+      {
+        "appid": 1446780,
+        "name": "MONSTER HUNTER RISE",
+        "playtime_2weeks": 29,
+        "playtime_forever": 1164,
+        "img_icon_url": "560dd364b52075b783424961a43c01f9b69fde15"
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_2weeks": 16,
+        "playtime_forever": 13907,
+        "img_icon_url": "070902d2389878ac4bf29efb5b92832c60bdf24e"
+      },
+      {
+        "appid": 774171,
+        "name": "Muse Dash",
+        "playtime_2weeks": 15,
+        "playtime_forever": 785,
+        "img_icon_url": "e0f4a24aa5b44887dc3467ee3e9ceabf46082041"
+      },
+      {
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "playtime_2weeks": 14,
+        "playtime_forever": 884,
+        "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776"
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_2weeks": 14,
+        "playtime_forever": 1930,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed"
+      },
+      {
+        "appid": 289070,
+        "name": "Sid Meier's Civilization VI",
+        "playtime_2weeks": 2,
+        "playtime_forever": 1279,
+        "img_icon_url": "9dc914132fec244adcede62fb8e7524a72a7398c"
+      }
+    ]
+  }
+}
